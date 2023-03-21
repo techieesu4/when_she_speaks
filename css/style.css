@@ -59,6 +59,9 @@ p {
 	font-family: 'Alegreya Sans', sans-serif;
 	font-size: 1.8rem;
 }
+span{
+	font-family:Algerian;
+}
 
 .min-100 {
 	min-height: 100%;
